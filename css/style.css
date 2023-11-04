@@ -1,0 +1,26 @@
+:root {
+  --blue: #1e90ff;
+}
+
+body {
+  background-color: var(--blue);
+  color: white;
+}
+
+button {
+  display: block;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+#Increment {
+  background-color: red;
+}
+#Decrement {
+  background-color: yellow;
+}
+
+#save-btn {
+  background: green;
+  color: black;
+}
